@@ -1,23 +1,30 @@
-Meowduino
+# Meowduino
 "Tiny paws, smart code."
-Author: Ovejan Diana Elena
+**Author:** Ovejan Diana Elena
 
-Description
+___
+
+## Description
 
 Acest proiect constă în transformarea unei jucării-pisică deja existente într-o pisicuță interactivă inteligentă, folosind o placă Arduino Nano și senzori de proximitate și atingere. Pisicuța reacționează la apropierea unei persoane prin mieunat, toarce și dă din coadă atunci când este mângâiată pe cap și se întinde pe lăbuțele din față când este apăsată pe una dintre ele.
 
-Motivation
+___
+
+## Motivation
 
 Proiectul are ca scop combinarea elementelor de inginerie și interactivitate pentru a crea o jucărie inteligentă, empatică și simpatică, potrivită pentru persoanele care iubesc animalele, dar nu pot avea una reală (ex: alergii). Este, de asemenea, un proiect didactic care integrează cunoștințe din domeniile Arduino, senzori și electronică aplicată.
-Architecture
 
-Block Diagram
+___
 
-Schematic (Textual)
+## Architecture
 
-Components
+### Block Diagram
 
-| Componentă | Utilizare | Preț estimat (RON) | Link |
+### Schematic (Textual)
+
+## Components
+
+| Device | Usage | Price (RON) | Link |
 |-----------|-----------|--------------------|------|
 | Placă de Dezvoltare Compatibilă cu Arduino Nano (ATmega328p și CH340) | Placă principală de control | 24.99 | [link](https://www.optimusdigital.ro/ro/compatibile-cu-arduino-nano/1686-placa-de-dezvoltare-compatibila-cu-arduino-nano-atmega328p-i-ch340.html) |
 | Senzor Ultrasonic de Distanță HC-SR04+ | Detectează apropierea unei persoane | 14.99 | [link](https://www.optimusdigital.ro/ro/senzori-senzori-ultrasonici/2328-senzor-ultrasonic-de-distana-hc-sr04-compatibil-33-v-i-5-v.html) |
@@ -32,12 +39,14 @@ Components
 | Kit Plusivo pentru Introducere în Electronică | Componente suplimentare (rezistori, LED-uri etc.) | 39.99 | [link](https://www.optimusdigital.ro/ro/kituri/12026-kit-plusivo-pentru-introducere-in-electronica-0721248990075.html) |
 | Pisica Interactiva Albă cu Sunet & Lumină | Bază jucărie modificată în companion inteligent | 24.99 | [link](https://www.e-jumbo.ro/ro/jucarii/jucarii-bebelusi-prescolari/jucarii-prescolare-pentru-copii-6-luni/animale-interactive/animale-cu-mecanism-operate-cu-baterii/pisica-interactiva-alba-cu-sunet-lumina_1685254/) |
 
-**Total estimativ:** ~148.00 RON
+| **Total estimat:** | |  **~148.00 RON** |
 
-Libraries
+___
 
-Log
+## Libraries
 
-Week 6 – 12 May: Achiziția componentelor
-Week 7 – 19 May
-Week 8 – 26 May
+## Log
+
+- **Week 6 – 12 May**: Achiziția componentelor
+- **Week 7 – 19 May**
+- **Week 8 – 26 May**
