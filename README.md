@@ -1,5 +1,7 @@
 # Meowduino
+___
 "Tiny paws, smart code."
+___
 **Author:** Ovejan Diana Elena
 
 ___
@@ -39,7 +41,7 @@ ___
 | Kit Plusivo pentru Introducere în Electronică | Componente suplimentare (rezistori, LED-uri etc.) | 39.99 | [link](https://www.optimusdigital.ro/ro/kituri/12026-kit-plusivo-pentru-introducere-in-electronica-0721248990075.html) |
 | Pisica Interactiva Albă cu Sunet & Lumină | Bază jucărie modificată în companion inteligent | 24.99 | [link](https://www.e-jumbo.ro/ro/jucarii/jucarii-bebelusi-prescolari/jucarii-prescolare-pentru-copii-6-luni/animale-interactive/animale-cu-mecanism-operate-cu-baterii/pisica-interactiva-alba-cu-sunet-lumina_1685254/) |
 
-| **Total estimat:** | |  **~148.00 RON** |
+ **Total estimat:**  **~148.00 RON**
 
 ___
 
