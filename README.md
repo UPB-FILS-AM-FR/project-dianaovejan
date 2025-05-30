@@ -20,7 +20,8 @@ ___
 
 ## Architecture
 
-![image](https://github.com/user-attachments/assets/4042144d-c47e-438f-8b35-ab43702a7989)
+![image](https://github.com/user-attachments/assets/756857f3-0449-44af-8244-e8a006496792)
+
 
 
 ### Block Diagram
