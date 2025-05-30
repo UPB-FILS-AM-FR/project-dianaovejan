@@ -38,6 +38,7 @@ ___
                          ↓
                       [DC Motor]
 
+
 ### Schematic (Textual)
 
 Schematic (Textual)
@@ -56,7 +57,7 @@ D10 → Buzzer
 
 Vin GND Arduino ↔ GND baterii externe
 
-Motorul este alimentat dintr-o baterie de 9V, comutat prin releu
+Motorul este alimentat prin 2 baterii AA de 1,5V fiecare, comutat prin releu
 
 Diodă este conectată în paralel cu motorul (catod la +, anod la –) pentru protecție la tensiune inversă
 
