@@ -20,6 +20,9 @@ ___
 
 ## Architecture
 
+![image](https://github.com/user-attachments/assets/4042144d-c47e-438f-8b35-ab43702a7989)
+
+
 ### Block Diagram
 
 ### Schematic (Textual)
