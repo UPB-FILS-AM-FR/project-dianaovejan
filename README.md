@@ -20,7 +20,8 @@ ___
 
 ## Architecture
 
-![image](https://github.com/user-attachments/assets/756857f3-0449-44af-8244-e8a006496792)
+![Screenshot 2025-05-30 at 09 21 34 (2)](https://github.com/user-attachments/assets/f41f9266-7db2-4dcf-9732-960d2bd4205a)
+
 
 
 
