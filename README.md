@@ -26,7 +26,39 @@ ___
 
 ### Block Diagram
 
+          [Ultrasonic Sensor HC-SR04]
+                    ↓
+               [Arduino Nano]
+       ↙           ↓          ↘
+[Capacitive Sensor] ↓       [Button]
+                    ↓
+        [Digital Logic (if/else)]
+       ↙            ↓             ↘
+ [Tone to Buzzer] [Motor Relay] [Purring Sound]
+                         ↓
+                      [DC Motor]
+
 ### Schematic (Textual)
+
+Schematic (Textual)
+
+D2 → Echo (ultrasonic)
+
+D3 → Trigger (ultrasonic)
+
+D4 → Capacitive Touch (simulat cu buton)
+
+D5 → Paw Button
+
+D6 → Relay control (DC motor)
+
+D10 → Buzzer
+
+Vin GND Arduino ↔ GND baterii externe
+
+Motorul este alimentat dintr-o baterie de 9V, comutat prin releu
+
+Diodă este conectată în paralel cu motorul (catod la +, anod la –) pentru protecție la tensiune inversă
 
 ## Components
 
@@ -54,5 +86,5 @@ ___
 ## Log
 
 - **Week 6 – 12 May**: Achiziția componentelor
-- **Week 7 – 19 May**
-- **Week 8 – 26 May**
+- **Week 7 – 19 May**: Asamblarea pieselor si programarea acestora
+- **Week 8 – 26 May**: Finalizarea si prezentarea proiectului
